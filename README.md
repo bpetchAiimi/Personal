@@ -1,2 +1,2 @@
-# personal_repo
-personal
+# Personal Repository
+Jupyter Notebook of useful functions 
